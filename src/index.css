@@ -52,3 +52,7 @@
         @apply bg-highlight text-white font-semibold;
     }
 }
+
+html {
+  scroll-behavior: smooth;
+}
